@@ -1,0 +1,5 @@
+host: 'xxxxxxxxxxxxxxxx.x.influxdb.com'
+username: 'influxdb'
+password: 'xxxxxxxxxxxxxxxxxxxxxx'
+dbname: 'hage_pika'
+name: 'foobar'
